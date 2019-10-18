@@ -1,0 +1,277 @@
+home:
+    
+[
+{ 
+    "title" : "华为 Mate 30 全网通4G版", 
+    "des" : "星河银 6GB+128GB  【重构想象】麒麟990，4000万超感光徕卡影像，OLED全面屏", 
+    "time":234234,
+    "detail" : { 
+        "auth" : "赵海", 
+        "content" :"<p style='color:red'>超强待机,手感爆炸</p>", 
+        "auth_icon" : "/upload/user/noimage.png" 
+    }  
+},           
+{ 
+    "title" : "华为 Mate 20x 全网通4G版", 
+    "des" : "亮黑色 6GB+128GB  【重构想象】麒麟990，4000万超感光徕卡影像，OLED全面屏", 
+    "time":234234,
+    "detail" : { 
+        "auth" : "赵海", 
+        "content" :"<p style='color:red'>超强待机,手感爆炸</p>", 
+        "auth_icon" : "/upload/user/noimage.png" 
+    } 
+},
+{ 
+
+    "title" : "华为 nova 20x 全网通4G版", 
+    "des" : "速印蓝 6GB+128GB  【重构想象】麒麟990，4000万超感光徕卡影像，OLED全面屏", 
+    "time":234234,
+    "detail" : { 
+        "auth" : "赵海", 
+        "content" :"<p style='color:red'>超强待机,手感爆炸</p>", 
+        "auth_icon" : "/upload/user/noimage.png" 
+    } 
+},
+{ 
+    "title" : "华为 畅享20 全网通4G版", 
+    "des" : "幻夜黑 6GB+128GB  【重构想象】麒麟990，4000万超感光徕卡影像，OLED全面屏", 
+    "time":234234,
+    "detail" : { 
+        "auth" : "赵海", 
+        "content" :"<p style='color:red'>超强待机,手感爆炸</p>", 
+        "auth_icon" : "/upload/user/noimage.png" 
+    } 
+},
+{ 
+    "title" : "华为 荣耀20 全网通4G版", 
+    "des" : "非冷色 6GB+128GB  【重构想象】麒麟990，4000万超感光徕卡影像，OLED全面屏", 
+    "time":234234,
+    "detail" : { 
+        "auth" : "赵海", 
+        "content" :"<p style='color:red'>超强待机,手感爆炸</p>", 
+        "auth_icon" : "/upload/user/noimage.png" 
+    } 
+},
+{ 
+    "title" : "华为 荣耀30 全网通4G版", 
+    "des" : "孔雀翎 6GB+128GB  【重构想象】麒麟990，4000万超感光徕卡影像，OLED全面屏", 
+    "time":234234,
+    "detail" : { 
+        "auth" : "赵海", 
+        "content" :"<p style='color:red'>超强待机,手感爆炸</p>", 
+        "auth_icon" : "/upload/user/noimage.png" 
+    } 
+},
+{ 
+    "title" : "华为 Mate30 全网通4G版", 
+    "des" : "宝玉花 6GB+128GB  【重构想象】麒麟990，4000万超感光徕卡影像，OLED全面屏", 
+    "time":234234,
+    "detail" : { 
+        "auth" : "赵海", 
+        "content" :"<p style='color:red'>超强待机,手感爆炸</p>", 
+        "auth_icon" : "/upload/user/noimage.png" 
+    } 
+},
+{ 
+    "title" : "华为 nova8x 全网通4G版", 
+    "des" : "金灿灿 6GB+128GB  【重构想象】麒麟990，4000万超感光徕卡影像，OLED全面屏", 
+    "time":234234,
+    "detail" : { 
+        "auth" : "赵海", 
+        "content" :"<p style='color:red'>超强待机,手感爆炸</p>", 
+        "auth_icon" : "/upload/user/noimage.png" 
+    } 
+}
+]
+
+----------------------------------------------
+banner：	[
+			{ 
+					
+						"title" : "华为 nova8x 全网通4G版", 
+						"sub_title" : "超强待机,手感爆炸", 
+						"banner" : "/upload/banner/a1.jpg", 
+						"time":234234,
+						"detail" : { 
+							"auth" : "", 
+							"content" : "<p>xxx<p>", 
+							"icon" : "/upload/banner/9d4083b4f1d28a6c0fb4c463526790eb.jpg" 
+			}
+		},{ 
+					
+						"title" : "华为 Mate30 全网通4G版", 
+						"sub_title" : "至尊享受,手感爆炸", 
+						"banner" : "/upload/banner/a2.jpg", 
+						"time":234234,
+						"detail" : { 
+							"auth" : "", 
+							"content" : "<p>xxx<p>", 
+							"icon" : "/upload/banner/9d4083b4f1d28a6c0fb4c463526790eb.jpg" 
+			}
+		},{ 
+		
+						"title" : "华为 荣耀30 全网通4G版", 
+						"sub_title" : "纵享丝滑", 
+						"banner" : "/upload/banner/a3.jpg", 
+						"time":234234,
+						"detail" : { 
+							"auth" : "", 
+							"content" : "<p>xxx<p>", 
+							"icon" : "/upload/banner/9d4083b4f1d28a6c0fb4c463526790eb.jpg" 
+			}
+		}
+        ]
+-----------------------------------------------------------------
+follow:
+
+[{ 
+    "image" : "/upload/product/d1.jpg", 
+    "title" : "华为 nova8x 全网通4G版", 
+    "des" : "亮黑色 6GB+128GB  【重构想象】麒麟990，4000万超感光徕卡影像，OLED全面屏", 
+    "time":234234,
+    "detail" : { 
+        "auth" : "赵海", 
+        "content" :"<p>影像之美,无可替代</p>", 
+        "auth_icon" : "/upload/user/noimage.png" 
+    } 
+},
+{ 
+    "image" : "/upload/product/d2.jpg", 
+    "title" : "华为 nova8x 全网通4G版", 
+    "des" : "孔雀蓝 6GB+128GB  【重构想象】麒麟990，4000万超感光徕卡影像，OLED全面屏", 
+    "time":234234,
+    "detail" : { 
+        "auth" : "赵海", 
+        "content" :"<p>影像之美,无可替代</p>", 
+        "auth_icon" : "/upload/user/noimage.png" 
+    } 
+},
+{ 
+    "image" : "/upload/product/d3.jpg", 
+    "title" : "华为 nova8x 全网通4G版", 
+    "des" : "宝玉花 6GB+128GB  【重构想象】麒麟990，4000万超感光徕卡影像，OLED全面屏", 
+    "time":234234,
+    "detail" : { 
+        "auth" : "赵海", 
+        "content" :"<p>影像之美,无可替代</p>", 
+        "auth_icon" : "/upload/user/noimage.png" 
+    } 
+},
+{ 
+    "image" : "/upload/product/d4.jpg", 
+    "title" : "华为 nova8x 全网通4G版", 
+    "des" : "七伤拳 6GB+128GB  【重构想象】麒麟990，4000万超感光徕卡影像，OLED全面屏", 
+    "time":234234,
+    "detail" : { 
+        "auth" : "赵海", 
+        "content" :"<p>影像之美,无可替代</p>", 
+        "auth_icon" : "/upload/user/noimage.png" 
+    } 
+},
+{ 
+    "image" : "/upload/product/d5.jpg", 
+    "title" : "华为 nova8x 全网通4G版", 
+    "des" : "佛炉火炼 6GB+128GB  【重构想象】麒麟990，4000万超感光徕卡影像，OLED全面屏", 
+    "time":234234,
+    "detail" : { 
+        "auth" : "赵海", 
+        "content" :"<p>影像之美,无可替代</p>", 
+        "auth_icon" : "/upload/user/noimage.png" 
+    } 
+},
+{ 
+    "image" : "/upload/product/d6.jpg", 
+    "title" : "华为 nova8x 全网通4G版", 
+    "des" : "亮黑色 6GB+128GB  【重构想象】麒麟990，4000万超感光徕卡影像，OLED全面屏", 
+    "time":234234,
+    "detail" : { 
+        "auth" : "赵海", 
+        "content" :"<p>影像之美,无可替代</p>", 
+        "auth_icon" : "/upload/user/noimage.png" 
+    } 
+},
+{ 
+    "image" : "/upload/product/d7.jpg", 
+    "title" : "华为 nova8x 全网通4G版", 
+    "des" : "雪花白 6GB+128GB  【重构想象】麒麟990，4000万超感光徕卡影像，OLED全面屏", 
+    "time":234234,
+    "detail" : { 
+        "auth" : "赵海", 
+        "content" :"<p>影像之美,无可替代</p>", 
+        "auth_icon" : "/upload/user/noimage.png" 
+    } 
+}
+]
+--------------------------------------------------------------------
+user:	
+			{ 
+				"_id" : ObjectId("5ccfbf0d2c9905d2a40d07d6"), 
+				"username" : "alex", 
+				"password" : "alex123", 
+				"follow" : "100", 
+				"fans" : "200", 
+				"nikename" : "赵海", 
+				"icon" : "/upload/968a3b7218ee744931276a64c9b7ea01.png", 
+				"time" : 1551620448550 
+			}
+
+---------------------------------------------------------------------------
+
+column:
+    [
+        { 
+            "image" : "/upload/product/d1.jpg", 
+            "detail" : { 
+                "auth" : "", 
+                "content" : "<p>华为深海魅蓝<p>", 
+                "price":"3999",
+                "icon" : "/upload/banner/9d4083b4f1d28a6c0fb4c463526790eb.jpg" 
+			}
+        },
+        { 
+            "image" : "/upload/product/d2.jpg", 
+            "detail" : { 
+                "auth" : "", 
+                "content" : "<p>华为天空绿<p>", 
+                "price":"4999",
+                "icon" : "/upload/banner/9d4083b4f1d28a6c0fb4c463526790eb.jpg" 
+			}
+        },
+        { 
+            "image" : "/upload/product/d3.jpg", 
+            "detail" : { 
+                "auth" : "", 
+                "content" : "<p>华为鲸鱼酱紫<p>", 
+                "price":"5999",
+                "icon" : "/upload/banner/9d4083b4f1d28a6c0fb4c463526790eb.jpg" 
+			}
+        },
+        { 
+            "image" : "/upload/product/d4.jpg", 
+            "detail" : { 
+                "auth" : "", 
+                "content" : "<p>华为红唇有人<p>", 
+                "price":"6999",
+                "icon" : "/upload/banner/9d4083b4f1d28a6c0fb4c463526790eb.jpg" 
+			}
+        },
+        { 
+            "image" : "/upload/product/d5.jpg", 
+            "detail" : { 
+                "auth" : "", 
+                "content" : "<p>华为天下无敌<p>", 
+                "price":"7999",
+                "icon" : "/upload/banner/9d4083b4f1d28a6c0fb4c463526790eb.jpg" 
+			}
+        },
+        { 
+            "image" : "/upload/product/d6.jpg", 
+            "detail" : { 
+                "auth" : "", 
+                "content" : "<p>华为bulala<p>", 
+                "price":"8999",
+                "icon" : "/upload/banner/9d4083b4f1d28a6c0fb4c463526790eb.jpg" 
+			}
+        }
+    ]
+
